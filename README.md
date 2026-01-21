@@ -87,4 +87,4 @@ Higher attrition observed among male employees
 🔗 Author
 
 Kanika Jain
-Aspiring Data Analyst | Tableau Learner | HR Analytics Enthusiast
+|Aspiring Data Analyst | Tableau Learner | HR Analytics Enthusiast
